@@ -1,0 +1,3 @@
+Ques- Purpose of using var() function in CSS.
+Ans- The var() CSS function can be used to insert the value of a custom property instead of any part of a value of another property.
+    If by any chance we need to change a CSS property we dont have to find that particular property in CSS, we can just change it in var() function and it will take care of the rest.
